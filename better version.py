@@ -7,6 +7,11 @@
 # importing the module turtle and all of its methods
 from turtle import *
 
+
+# importing the module ' letters ', so that the functions can be called.
+
+from letters import letterN, letterI, letterZ, letterA, letterR
+
 #defining the screen as an object
 screen=Screen()
 screen.bgcolor("white")
@@ -20,7 +25,8 @@ penup()
 hideturtle() # it is optinal, just to hide the object to make better animation
 
 
-
+    
+    
 
 
 
