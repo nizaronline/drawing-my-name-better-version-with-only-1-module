@@ -24,7 +24,17 @@ mode("logo") # to make the turtle head to the north, and the postitve angles for
 penup()
 hideturtle() # it is optinal, just to hide the object to make better animation
 
+def main():
+    letterN()
+    letterI()
+    letterZ()
+    letterA()
+    letterR()
 
+
+
+
+main()
     
     
 
